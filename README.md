@@ -1,0 +1,3 @@
+IMIQ
+
+The IMIQ project addresses a critical challenge faced by F1 and H1B visa holders—navigating immigration interviews at U.S. ports of entry. IMIQ is an online platform designed to provide a comprehensive guide with answers to the most frequently asked immigration questions, categorized for easy access. The website aims to prepare users for immigration questioning by offering up-to-date information, sample interview scenarios, and guidance on required documentation. This project not only enhances the confidence of visa holders but also reduces the time spent searching for scattered resources across the internet.
